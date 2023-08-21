@@ -1,0 +1,23 @@
+button{
+    border: none;
+    border-radius: 1rem;
+    /*background-color: #6f6e6e;*/
+    color: aliceblue;
+    font-size: 1.5rem;
+    aspect-ratio: 1/1;
+}
+button.numero{
+    background-color: #434141;
+}
+button.limpiar{
+    background-color: #790303;
+}
+button.operaciones{
+    background-color: #04517a;
+}
+button.igual{
+    background-color: #1405af;
+}
+button.cambiosigno{
+    background-color: #036028;
+}
